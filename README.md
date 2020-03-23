@@ -41,7 +41,7 @@ Now let's tell composer about our project's dependancies, in this case, PHPNats.
 ```
 {
   "require": {
-    "repejota/nats": "dev-master"
+    "sigurniv/nats": "dev-master"
   }
 }
 ```
